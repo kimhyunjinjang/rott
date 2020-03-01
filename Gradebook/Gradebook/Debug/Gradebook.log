@@ -1,0 +1,7 @@
+﻿  Gradebook.cpp
+c:\users\khjin\documents\visual studio 2015\projects\gradebook\gradebook\gradebook.cpp(33): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+c:\users\khjin\documents\visual studio 2015\projects\gradebook\gradebook\gradebook.cpp(35): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+c:\users\khjin\documents\visual studio 2015\projects\gradebook\gradebook\gradebook.cpp(37): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+c:\users\khjin\documents\visual studio 2015\projects\gradebook\gradebook\gradebook.cpp(39): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  Gradebook.vcxproj -> c:\users\khjin\documents\visual studio 2015\Projects\Gradebook\Debug\Gradebook.exe
+  Gradebook.vcxproj -> c:\users\khjin\documents\visual studio 2015\Projects\Gradebook\Debug\Gradebook.pdb (Full PDB)
