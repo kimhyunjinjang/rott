@@ -1,0 +1,4 @@
+﻿  WilsonPrimes.cpp
+c:\users\khjin\documents\visual studio 2015\projects\wilsonprimes\wilsonprimes\wilsonprimes.cpp(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  WilsonPrimes.vcxproj -> c:\users\khjin\documents\visual studio 2015\Projects\WilsonPrimes\Debug\WilsonPrimes.exe
+  WilsonPrimes.vcxproj -> c:\users\khjin\documents\visual studio 2015\Projects\WilsonPrimes\Debug\WilsonPrimes.pdb (Full PDB)
