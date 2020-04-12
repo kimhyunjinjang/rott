@@ -1,0 +1,4 @@
+﻿  FakeBinary.cpp
+c:\users\khjin\documents\visual studio 2015\projects\fakebinary\fakebinary\fakebinary.cpp(17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  FakeBinary.vcxproj -> C:\Users\khjin\Documents\Visual Studio 2015\Projects\FakeBinary\Debug\FakeBinary.exe
+  FakeBinary.vcxproj -> C:\Users\khjin\Documents\Visual Studio 2015\Projects\FakeBinary\Debug\FakeBinary.pdb (Full PDB)
